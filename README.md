@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on some MERN apps
 - 🌱 I’m currently learning best practices for web dev
 - 👯 I’m looking to collaborate on MERN, Python, AI projects
+- 📫 How to reach me: Twitter [@0xDevLogs](twitter.com/0xDevLogs)
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: Twitte @0xDevLogs
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
