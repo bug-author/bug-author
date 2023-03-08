@@ -12,5 +12,11 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bug-author&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bug-author)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=bug-author&theme=tokyonight)](https://git.io/streak-stats)
 
