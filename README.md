@@ -17,8 +17,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bug-author&label=Profile%20views&color=0e75b6&style=flat" alt="bug-author" /> 
-  <a href="https://twitter.com/0xDevLogs">
-    <img src="https://img.shields.io/twitter/follow/midhatahir?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff" alt="Twitter" />
   </a>
 </div>
 
