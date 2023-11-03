@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">A Software Engineer | Full Stack | AI </h3> 
+<h3 align="center">A Software Engineer | Full Stack | Web3 | AI </h3> 
 
 <!--
 - 👯 I’m looking to collaborate on MERN, Python, AI projects. Hit me up for anything open source or #buildinpublic.
