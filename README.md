@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">A Software Engineer | Full Stack | Web3 | AI </h3> 
+<h3 align="center">A Software Engineer | Full Stack | AI </h3> 
 <p align="center"><a href="https://www.bug-author.com" target="_blank">bug-author-com</p>
 
 <!--
